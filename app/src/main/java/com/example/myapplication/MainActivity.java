@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity
     private int mOriginalOrientation;
     private int mOriginalSystemUiVisibility;
     NestedScrollView nestedScrollView;
-    final String url="https://google.com";
+    final String url="https://mizanurrahman-programmer.github.io/personal/";
 
     final String admob_app_id = "ca-app-pub-3940256099942544~3347511713";
     final String admob_banner_id = "ca-app-pub-3940256099942544/6300978111";
